@@ -145,7 +145,7 @@ div input:focus {
     max-width: 1220px; /* Largura máxima do container */
     height: 600px; /* Altura fixa de 600px */
     margin: 2rem auto 0; /* Centraliza e adiciona margem no topo */
-    background-image: url('assets/Banner/mainBanner.png'); /* Imagem de fundo - SUBSTITUA PELO CAMINHO DA SUA IMAGEM */
+    background-image: url('Assets/Banner/mainBanner.png'); /* Imagem de fundo - SUBSTITUA PELO CAMINHO DA SUA IMAGEM */
     background-size: cover; /* Faz a imagem cobrir todo o espaço */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Impede a repetição da imagem */
